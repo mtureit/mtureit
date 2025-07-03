@@ -10,20 +10,7 @@
 <!-- Skill Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,firebase,python,cpp,github,latex" />
-  </a>
-</p>
-
-<!-- Badges：Zenn・Qiita・AtCoder の例 -->
-<p align="center">
-  <a href="https://zenn.dev/mtureit">
-    <img src="https://badgen.org/zenn/followers/mtureit?label=Zenn&color=3ea8ff" />
-  </a>
-  <a href="https://qiita.com/mtureit">
-    <img src="https://badgen.org/qiita/contributions/mtureit?label=Qiita&color=55c500" />
-  </a>
-  <a href="https://atcoder.jp/users/mtureit">
-    <img src="https://badgen.org/atcoder/rank/mtureit?label=AtCoder&color=ff9933" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,firebase,python" />
   </a>
 </p>
 
@@ -42,7 +29,6 @@
 
 <!-- Contact -->
 <p align="center">
-  <a href="https://x.com/mtureit">X (Twitter)</a> ・
-  <a href="mailto:mtureit@example.com">Email</a> ・
-  <a href="https://mtureit.dev">Portfolio</a>
+  <a href="[https://x.com/mtureit](https://x.com/A_aisa1129)">X (Twitter)</a> ・
+  <a href="[https://mtureit.dev](https://eita-portfolio-28hy.vercel.app/)">Portfolio</a>
 </p>
