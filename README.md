@@ -3,8 +3,8 @@
 
 <!-- 一言 -->
 <p align="center">
-  情報・経営システム工学 3 年／AI×教育を研究。<br>
-  NUTMEG-Seeds で PM も担当しています。
+  情報・経営システム工学 4年／AI×教育を研究。<br>
+  NUTMEGでPMを担当しています。
 </p>
 
 <!-- Skill Icons -->
